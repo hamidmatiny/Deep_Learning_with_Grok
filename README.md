@@ -2,7 +2,7 @@
 
 # Advanced Deep Learning: Code-Along Series 🚀
 
-Welcome to **Module 5** of my Deep Learning journey. This repository contains a 6-week, intensive "Code-Along" curriculum focused on mastering sequence models, Transformers, and Large Language Models (LLMs) using **PyTorch** and **Hugging Face**.
+This repository contains a intensive "Code-Along" curriculum focused on mastering sequence models, Transformers, and Large Language Models (LLMs) using **PyTorch** and **Hugging Face**.
 
 ## 📌 Learning Philosophy
 
